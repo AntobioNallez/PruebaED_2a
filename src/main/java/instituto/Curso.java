@@ -12,6 +12,7 @@ import java.util.TreeSet;
  * Se utiliza un TreeSet para almacenar los alumnos de forma ordenada.
  * 
  * @author ProfDiurno
+ * @version 1.0.0
  */
 public class Curso {
 

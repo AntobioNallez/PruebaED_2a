@@ -9,6 +9,7 @@ package instituto;
  * La letra se calcula automáticamente según el número.
  * 
  * @author ProfDiurno
+ * @version 1.0.0
  */
 public class Nif {
 

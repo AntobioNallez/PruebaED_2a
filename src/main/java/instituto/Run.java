@@ -5,6 +5,7 @@
 package instituto;
 
 /**
+ * Metodo main del programa
  *
  * @author Antonio
  */

@@ -13,6 +13,7 @@ import java.util.Objects;
  * nacimiento.
  * 
  * @author ProfDiurno
+ * @version 1.0.0
  */
 public class Persona implements Comparable<Persona> {
 
